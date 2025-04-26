@@ -1,6 +1,5 @@
 # 🩺 Onyx Data Challenge - Healthcare Analysis (Power BI Dashboard)
 
-Welcome to my submission for the **Onyx Data Challenge (April Edition)**!  
 This Power BI project focuses on analyzing **55,500+ unique patient records** from **10 major U.S. hospitals**, with the goal of deriving **actionable insights** for better healthcare decisions, cost optimization, and improved patient outcomes.
 
 ---
